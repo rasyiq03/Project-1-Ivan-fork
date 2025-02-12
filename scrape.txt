@@ -1,0 +1,15 @@
+Heading Utama: Tidak ditemukan
+H2: Tentang Saya
+H2: Pendidikan
+H2: Pengalaman
+H2: Keterampilan
+H2: Motto Hidup
+H3: Hubungi Saya
+Paragraf 1 dalam Tentang:
+              Saya merupakan lulusan SMK Negeri 2 cimahi jurusan Teknik Mekatronika yang saat ini berkuliah di Politeknik Negeri Bandung di jurusan Teknik Komputer dan Informatika dengan program studi D4 Teknik Informatika. Memiliki pengalaman PKL (Praktek Kerja Lapangan) di perusahaan manufaktur selama 6 bulan yang membentuk karakter diri saya menjadi seorang yang lebih disiplin dan teliti dalam melaksanakan tugas maupun pekerjaan.
+
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pendidikan - Pendidikan
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #motto - Motto
+Link Navigasi: #kontak - Kontak

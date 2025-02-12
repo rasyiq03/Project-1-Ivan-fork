@@ -1,0 +1,94 @@
+/* Gaya Umum */
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Gaya Header */
+header {
+  background-color: #b5b6bc;
+  padding: 10px;
+}
+
+li{
+  list-style-type: none;
+}
+
+nav ul {
+  text-align: right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 50px;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+/* Gaya Konten Utama */
+main {
+  background-image: url('./foto/background.png');
+  text-align: center;
+  padding: 50px;
+}
+
+/* Gaya Gambar Profil */
+.gambar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture {
+  border-radius: 50%;
+}
+
+/* Gaya Tabel */
+.table-container {
+  text-align: center;
+}
+
+table {
+  display: inline-block;
+  border-collapse: collapse;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+/* Gaya Paragraf */
+p {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+/* Gaya Footer */
+footer {
+  background-color: #b5b6bc;
+  padding: 10px;
+  text-align: center;
+}
+
+.article {
+  background-color: #ffffff;
+  border: 2px solid white; /* Garis batas kotak */
+  padding: 20px; /* Ruang di dalam kotak */
+  margin: 20px auto; /* Ruang antar artikel */
+  border-radius: 10px; /* Membuat sudut sedikit melengkung (opsional) */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Efek bayangan (opsional) */
+  width: 80%; /* Menyesuaikan lebar artikel */
+}
+
