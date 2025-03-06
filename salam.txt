@@ -1,0 +1,30 @@
+Computational Thinking Journal
+
+Date: [Current Date]
+
+1. Understanding Computational Thinking
+- Breaking down problems into smaller parts (Decomposition)
+- Finding patterns (Pattern Recognition)
+- Focusing on important details while ignoring irrelevant ones (Abstraction)
+- Creating step-by-step solutions (Algorithm Design)
+
+2. Today's Learning Points:
+- Learned how to approach problems systematically
+- Practiced breaking complex problems into manageable pieces
+- Identified patterns in problem-solving scenarios
+- Developed logical thinking skills
+
+3. Applications:
+- Used decomposition to organize project tasks
+- Applied pattern recognition in data analysis
+- Created algorithms for solving everyday problems
+
+4. Reflections:
+- What worked well:
+- Challenges faced:
+- Areas for improvement:
+
+Next Steps:
+- Continue practicing problem-solving techniques
+- Apply computational thinking to new challenges
+- Review and refine current solutions
